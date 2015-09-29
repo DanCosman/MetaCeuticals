@@ -1,0 +1,1456 @@
+11:24:09 DEBUG: Hooks - ***** START of Scenario: If you are not a member *****
+11:24:09 INFO : InitDriver - ===============================================================
+11:24:09 INFO : InitDriver - |          Environment : ft
+11:24:09 INFO : InitDriver - |          Browser: firefox
+11:24:09 INFO : InitDriver - |          Browser config file: firefox.properties
+11:24:09 INFO : InitDriver - ===============================================================
+
+11:24:23 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; i.fa.fa-sign-in
+11:24:23 DEBUG: Hooks - ***** END of Scenario: If you are not a member *****
+11:24:23 DEBUG: Hooks - ***** START of Scenario: My account loggin succesful *****
+11:24:23 INFO : InitDriver - ===============================================================
+11:24:23 INFO : InitDriver - |          Environment : ft
+11:24:23 INFO : InitDriver - |          Browser: firefox
+11:24:23 INFO : InitDriver - |          Browser config file: firefox.properties
+11:24:23 INFO : InitDriver - ===============================================================
+
+11:24:29 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; i.fa.fa-sign-in
+11:24:29 DEBUG: Hooks - ***** END of Scenario: My account loggin succesful *****
+11:24:29 DEBUG: Hooks - ***** START of Scenario: Logout *****
+11:24:29 INFO : InitDriver - ===============================================================
+11:24:29 INFO : InitDriver - |          Environment : ft
+11:24:29 INFO : InitDriver - |          Browser: firefox
+11:24:29 INFO : InitDriver - |          Browser config file: firefox.properties
+11:24:29 INFO : InitDriver - ===============================================================
+
+11:24:35 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; i.fa.fa-sign-in
+11:24:35 DEBUG: Hooks - ***** END of Scenario: Logout *****
+11:24:35 DEBUG: Hooks - ***** START of Scenario: Login failed because of wrong username and password *****
+11:24:35 INFO : InitDriver - ===============================================================
+11:24:35 INFO : InitDriver - |          Environment : ft
+11:24:35 INFO : InitDriver - |          Browser: firefox
+11:24:35 INFO : InitDriver - |          Browser config file: firefox.properties
+11:24:35 INFO : InitDriver - ===============================================================
+
+11:24:41 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; i.fa.fa-sign-in
+11:24:41 DEBUG: Hooks - ***** END of Scenario: Login failed because of wrong username and password *****
+11:24:41 DEBUG: Hooks - ***** START of Scenario: Login faled because of wrong password *****
+11:24:41 INFO : InitDriver - ===============================================================
+11:24:41 INFO : InitDriver - |          Environment : ft
+11:24:41 INFO : InitDriver - |          Browser: firefox
+11:24:41 INFO : InitDriver - |          Browser config file: firefox.properties
+11:24:41 INFO : InitDriver - ===============================================================
+
+11:24:47 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; i.fa.fa-sign-in
+11:24:47 DEBUG: Hooks - ***** END of Scenario: Login faled because of wrong password *****
+11:24:47 DEBUG: Hooks - ***** START of Scenario: Login faled because of wrong username *****
+11:24:47 INFO : InitDriver - ===============================================================
+11:24:47 INFO : InitDriver - |          Environment : ft
+11:24:47 INFO : InitDriver - |          Browser: firefox
+11:24:47 INFO : InitDriver - |          Browser config file: firefox.properties
+11:24:47 INFO : InitDriver - ===============================================================
+
+11:24:53 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; i.fa.fa-sign-in
+11:24:53 DEBUG: Hooks - ***** END of Scenario: Login faled because of wrong username *****
+11:24:53 DEBUG: Hooks - ***** START of Scenario: Login failed because the user leaves empty username field or Password field *****
+11:24:53 INFO : InitDriver - ===============================================================
+11:24:53 INFO : InitDriver - |          Environment : ft
+11:24:53 INFO : InitDriver - |          Browser: firefox
+11:24:53 INFO : InitDriver - |          Browser config file: firefox.properties
+11:24:53 INFO : InitDriver - ===============================================================
+
+11:25:00 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; i.fa.fa-sign-in
+11:25:00 DEBUG: Hooks - ***** END of Scenario: Login failed because the user leaves empty username field or Password field *****
+11:25:00 DEBUG: Hooks - ***** START of Scenario: Login failed because user leaves empty Password field *****
+11:25:00 INFO : InitDriver - ===============================================================
+11:25:00 INFO : InitDriver - |          Environment : ft
+11:25:00 INFO : InitDriver - |          Browser: firefox
+11:25:00 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:00 INFO : InitDriver - ===============================================================
+
+11:25:06 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; i.fa.fa-sign-in
+11:25:06 DEBUG: Hooks - ***** END of Scenario: Login failed because user leaves empty Password field *****
+11:25:06 DEBUG: Hooks - ***** START of Scenario: Scenario: Login failed because user leaves empty username field *****
+11:25:06 INFO : InitDriver - ===============================================================
+11:25:06 INFO : InitDriver - |          Environment : ft
+11:25:06 INFO : InitDriver - |          Browser: firefox
+11:25:06 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:06 INFO : InitDriver - ===============================================================
+
+11:25:13 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; i.fa.fa-sign-in
+11:25:13 DEBUG: Hooks - ***** END of Scenario: Scenario: Login failed because user leaves empty username field *****
+11:25:13 DEBUG: Hooks - ***** START of Scenario: Members Area *****
+11:25:13 INFO : InitDriver - ===============================================================
+11:25:13 INFO : InitDriver - |          Environment : ft
+11:25:13 INFO : InitDriver - |          Browser: firefox
+11:25:13 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:13 INFO : InitDriver - ===============================================================
+
+11:25:19 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; i.fa.fa-sign-in
+11:25:19 DEBUG: Hooks - ***** END of Scenario: Members Area *****
+11:25:19 DEBUG: Hooks - ***** START of Scenario: Update Profile *****
+11:25:19 INFO : InitDriver - ===============================================================
+11:25:19 INFO : InitDriver - |          Environment : ft
+11:25:19 INFO : InitDriver - |          Browser: firefox
+11:25:19 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:19 INFO : InitDriver - ===============================================================
+
+11:25:24 DEBUG: Hooks - ***** START of Scenario: If you are not a member *****
+11:25:24 INFO : InitDriver - ===============================================================
+11:25:24 INFO : InitDriver - |          Environment : ft
+11:25:24 INFO : InitDriver - |          Browser: firefox
+11:25:24 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:24 INFO : InitDriver - ===============================================================
+
+11:25:26 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; i.fa.fa-sign-in
+11:25:26 DEBUG: Hooks - ***** END of Scenario: Update Profile *****
+11:25:26 DEBUG: Hooks - ***** START of Scenario: Change Password *****
+11:25:26 INFO : InitDriver - ===============================================================
+11:25:26 INFO : InitDriver - |          Environment : ft
+11:25:26 INFO : InitDriver - |          Browser: firefox
+11:25:26 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:26 INFO : InitDriver - ===============================================================
+
+11:25:26 DEBUG: Hooks - ***** END of Scenario: Change Password *****
+11:25:26 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user leaves empty Old Password *****
+11:25:26 INFO : InitDriver - ===============================================================
+11:25:26 INFO : InitDriver - |          Environment : ft
+11:25:26 INFO : InitDriver - |          Browser: firefox
+11:25:26 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:26 INFO : InitDriver - ===============================================================
+
+11:25:26 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user leaves empty Old Password *****
+11:25:26 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user write wrong  Old Password *****
+11:25:26 INFO : InitDriver - ===============================================================
+11:25:26 INFO : InitDriver - |          Environment : ft
+11:25:26 INFO : InitDriver - |          Browser: firefox
+11:25:26 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:26 INFO : InitDriver - ===============================================================
+
+11:25:26 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user write wrong  Old Password *****
+11:25:26 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user leaves empty New Password field *****
+11:25:26 INFO : InitDriver - ===============================================================
+11:25:26 INFO : InitDriver - |          Environment : ft
+11:25:26 INFO : InitDriver - |          Browser: firefox
+11:25:26 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:26 INFO : InitDriver - ===============================================================
+
+11:25:26 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user leaves empty New Password field *****
+11:25:26 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user leaves empty Confirm New Password field *****
+11:25:26 INFO : InitDriver - ===============================================================
+11:25:26 INFO : InitDriver - |          Environment : ft
+11:25:26 INFO : InitDriver - |          Browser: firefox
+11:25:26 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:26 INFO : InitDriver - ===============================================================
+
+11:25:26 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user leaves empty Confirm New Password field *****
+11:25:26 DEBUG: Hooks - ***** START of Scenario: User Account History *****
+11:25:26 INFO : InitDriver - ===============================================================
+11:25:26 INFO : InitDriver - |          Environment : ft
+11:25:26 INFO : InitDriver - |          Browser: firefox
+11:25:26 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:26 INFO : InitDriver - ===============================================================
+
+11:25:27 DEBUG: Hooks - ***** END of Scenario: User Account History *****
+11:25:27 DEBUG: Hooks - ***** START of Scenario: Logout *****
+11:25:27 INFO : InitDriver - ===============================================================
+11:25:27 INFO : InitDriver - |          Environment : ft
+11:25:27 INFO : InitDriver - |          Browser: firefox
+11:25:27 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:27 INFO : InitDriver - ===============================================================
+
+11:25:27 DEBUG: Hooks - ***** END of Scenario: Logout *****
+11:25:27 DEBUG: Hooks - ***** START of Scenario: Home *****
+11:25:27 INFO : InitDriver - ===============================================================
+11:25:27 INFO : InitDriver - |          Environment : ft
+11:25:27 INFO : InitDriver - |          Browser: firefox
+11:25:27 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:27 INFO : InitDriver - ===============================================================
+
+11:25:27 DEBUG: Hooks - ***** END of Scenario: Home *****
+11:25:27 DEBUG: Hooks - ***** START of Scenario: About Us *****
+11:25:27 INFO : InitDriver - ===============================================================
+11:25:27 INFO : InitDriver - |          Environment : ft
+11:25:27 INFO : InitDriver - |          Browser: firefox
+11:25:27 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:27 INFO : InitDriver - ===============================================================
+
+11:25:27 DEBUG: Hooks - ***** END of Scenario: About Us *****
+11:25:27 DEBUG: Hooks - ***** START of Scenario: Healthcare Professionals *****
+11:25:27 INFO : InitDriver - ===============================================================
+11:25:27 INFO : InitDriver - |          Environment : ft
+11:25:27 INFO : InitDriver - |          Browser: firefox
+11:25:27 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:27 INFO : InitDriver - ===============================================================
+
+11:25:27 DEBUG: Hooks - ***** END of Scenario: Healthcare Professionals *****
+11:25:27 DEBUG: Hooks - ***** START of Scenario: Products/Services *****
+11:25:27 INFO : InitDriver - ===============================================================
+11:25:27 INFO : InitDriver - |          Environment : ft
+11:25:27 INFO : InitDriver - |          Browser: firefox
+11:25:27 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:27 INFO : InitDriver - ===============================================================
+
+11:25:27 DEBUG: Hooks - ***** END of Scenario: Products/Services *****
+11:25:27 DEBUG: Hooks - ***** START of Scenario: Additional Services *****
+11:25:27 INFO : InitDriver - ===============================================================
+11:25:27 INFO : InitDriver - |          Environment : ft
+11:25:27 INFO : InitDriver - |          Browser: firefox
+11:25:27 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:27 INFO : InitDriver - ===============================================================
+
+11:25:27 DEBUG: Hooks - ***** END of Scenario: Additional Services *****
+11:25:27 DEBUG: Hooks - ***** START of Scenario: Blog *****
+11:25:27 INFO : InitDriver - ===============================================================
+11:25:27 INFO : InitDriver - |          Environment : ft
+11:25:27 INFO : InitDriver - |          Browser: firefox
+11:25:27 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:27 INFO : InitDriver - ===============================================================
+
+11:25:27 DEBUG: Hooks - ***** END of Scenario: Blog *****
+11:25:27 DEBUG: Hooks - ***** START of Scenario: Contact Us *****
+11:25:27 INFO : InitDriver - ===============================================================
+11:25:27 INFO : InitDriver - |          Environment : ft
+11:25:27 INFO : InitDriver - |          Browser: firefox
+11:25:27 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:27 INFO : InitDriver - ===============================================================
+
+11:25:27 DEBUG: Hooks - ***** END of Scenario: Contact Us *****
+11:25:27 DEBUG: Hooks - ***** START of Scenario: Contact Us Information *****
+11:25:27 INFO : InitDriver - ===============================================================
+11:25:27 INFO : InitDriver - |          Environment : ft
+11:25:27 INFO : InitDriver - |          Browser: firefox
+11:25:27 INFO : InitDriver - |          Browser config file: firefox.properties
+11:25:27 INFO : InitDriver - ===============================================================
+
+11:25:27 DEBUG: Hooks - ***** END of Scenario: Contact Us Information *****
+11:25:38 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; i.fa.fa-sign-in
+11:25:38 DEBUG: Hooks - ***** END of Scenario: If you are not a member *****
+14:34:01 DEBUG: Hooks - ***** START of Scenario: If you are not a member *****
+14:34:01 INFO : InitDriver - ===============================================================
+14:34:01 INFO : InitDriver - |          Environment : ft
+14:34:01 INFO : InitDriver - |          Browser: firefox
+14:34:01 INFO : InitDriver - |          Browser config file: firefox.properties
+14:34:01 INFO : InitDriver - ===============================================================
+
+14:34:16 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; TG_USER_FIRSTNAME
+14:34:16 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: TG_USER_FIRSTNAME
+14:34:19 DEBUG: Hooks - ***** END of Scenario: If you are not a member *****
+14:40:44 DEBUG: Hooks - ***** START of Scenario: If you are not a member *****
+14:40:44 INFO : InitDriver - ===============================================================
+14:40:44 INFO : InitDriver - |          Environment : ft
+14:40:44 INFO : InitDriver - |          Browser: firefox
+14:40:44 INFO : InitDriver - |          Browser config file: firefox.properties
+14:40:44 INFO : InitDriver - ===============================================================
+
+14:40:59 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; First Name*
+14:40:59 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: First Name*
+14:41:02 DEBUG: Hooks - ***** END of Scenario: If you are not a member *****
+14:51:34 DEBUG: Hooks - ***** START of Scenario: If you are not a member *****
+14:51:34 INFO : InitDriver - ===============================================================
+14:51:34 INFO : InitDriver - |          Environment : ft
+14:51:34 INFO : InitDriver - |          Browser: firefox
+14:51:34 INFO : InitDriver - |          Browser config file: firefox.properties
+14:51:34 INFO : InitDriver - ===============================================================
+
+14:51:47 DEBUG: Hooks - ***** END of Scenario: If you are not a member *****
+14:57:47 DEBUG: Hooks - ***** START of Scenario: If you are not a member *****
+14:57:47 INFO : InitDriver - ===============================================================
+14:57:47 INFO : InitDriver - |          Environment : ft
+14:57:47 INFO : InitDriver - |          Browser: firefox
+14:57:47 INFO : InitDriver - |          Browser config file: firefox.properties
+14:57:47 INFO : InitDriver - ===============================================================
+
+14:58:02 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Submit
+14:58:02 DEBUG: Hooks - ***** END of Scenario: If you are not a member *****
+14:59:45 DEBUG: Hooks - ***** START of Scenario: If you are not a member *****
+14:59:45 INFO : InitDriver - ===============================================================
+14:59:45 INFO : InitDriver - |          Environment : ft
+14:59:45 INFO : InitDriver - |          Browser: firefox
+14:59:45 INFO : InitDriver - |          Browser config file: firefox.properties
+14:59:45 INFO : InitDriver - ===============================================================
+
+15:00:01 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Submit
+15:00:01 DEBUG: Hooks - ***** END of Scenario: If you are not a member *****
+15:00:29 DEBUG: Hooks - ***** START of Scenario: If you are not a member *****
+15:00:29 INFO : InitDriver - ===============================================================
+15:00:29 INFO : InitDriver - |          Environment : ft
+15:00:29 INFO : InitDriver - |          Browser: firefox
+15:00:29 INFO : InitDriver - |          Browser config file: firefox.properties
+15:00:29 INFO : InitDriver - ===============================================================
+
+15:00:40 DEBUG: Hooks - ***** END of Scenario: If you are not a member *****
+15:14:38 DEBUG: Hooks - ***** START of Scenario: If you are not a member *****
+15:14:38 INFO : InitDriver - ===============================================================
+15:14:38 INFO : InitDriver - |          Environment : ft
+15:14:38 INFO : InitDriver - |          Browser: firefox
+15:14:38 INFO : InitDriver - |          Browser config file: firefox.properties
+15:14:38 INFO : InitDriver - ===============================================================
+
+15:14:50 DEBUG: Hooks - ***** END of Scenario: If you are not a member *****
+15:14:57 DEBUG: Hooks - ***** START of Scenario: My account loggin succesful *****
+15:14:57 INFO : InitDriver - ===============================================================
+15:14:57 INFO : InitDriver - |          Environment : ft
+15:14:57 INFO : InitDriver - |          Browser: firefox
+15:14:57 INFO : InitDriver - |          Browser config file: firefox.properties
+15:14:57 INFO : InitDriver - ===============================================================
+
+15:15:10 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; userName
+15:15:10 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: userName
+15:15:15 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:15:15 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:15:20 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Welcome testarefirstname testarelastname
+15:15:20 DEBUG: Hooks - ***** END of Scenario: My account loggin succesful *****
+15:16:15 DEBUG: Hooks - ***** START of Scenario: If you are not a member *****
+15:16:15 INFO : InitDriver - ===============================================================
+15:16:15 INFO : InitDriver - |          Environment : ft
+15:16:15 INFO : InitDriver - |          Browser: firefox
+15:16:15 INFO : InitDriver - |          Browser config file: firefox.properties
+15:16:15 INFO : InitDriver - ===============================================================
+
+15:16:25 DEBUG: Hooks - ***** END of Scenario: If you are not a member *****
+15:16:25 DEBUG: Hooks - ***** START of Scenario: My account loggin succesful *****
+15:16:25 INFO : InitDriver - ===============================================================
+15:16:25 INFO : InitDriver - |          Environment : ft
+15:16:25 INFO : InitDriver - |          Browser: firefox
+15:16:25 INFO : InitDriver - |          Browser config file: firefox.properties
+15:16:25 INFO : InitDriver - ===============================================================
+
+15:16:29 DEBUG: Hooks - ***** END of Scenario: My account loggin succesful *****
+15:16:29 DEBUG: Hooks - ***** START of Scenario: Logout *****
+15:16:29 INFO : InitDriver - ===============================================================
+15:16:29 INFO : InitDriver - |          Environment : ft
+15:16:29 INFO : InitDriver - |          Browser: firefox
+15:16:29 INFO : InitDriver - |          Browser config file: firefox.properties
+15:16:29 INFO : InitDriver - ===============================================================
+
+15:16:35 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; userName
+15:16:35 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: userName
+15:16:40 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:16:40 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:16:46 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; i.fa.fa-sign-out
+15:16:46 DEBUG: Hooks - ***** END of Scenario: Logout *****
+15:16:46 DEBUG: Hooks - ***** START of Scenario: Login failed because of wrong username and password *****
+15:16:46 INFO : InitDriver - ===============================================================
+15:16:46 INFO : InitDriver - |          Environment : ft
+15:16:46 INFO : InitDriver - |          Browser: firefox
+15:16:46 INFO : InitDriver - |          Browser config file: firefox.properties
+15:16:46 INFO : InitDriver - ===============================================================
+
+15:16:52 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; userName
+15:16:52 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: userName
+15:16:57 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:16:57 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:17:02 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; User not found or password incorrect. Please try again.
+15:17:02 DEBUG: Hooks - ***** END of Scenario: Login failed because of wrong username and password *****
+15:17:02 DEBUG: Hooks - ***** START of Scenario: Login faled because of wrong password *****
+15:17:02 INFO : InitDriver - ===============================================================
+15:17:02 INFO : InitDriver - |          Environment : ft
+15:17:02 INFO : InitDriver - |          Browser: firefox
+15:17:02 INFO : InitDriver - |          Browser config file: firefox.properties
+15:17:02 INFO : InitDriver - ===============================================================
+
+15:17:08 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; userName
+15:17:08 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: userName
+15:17:13 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:17:13 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:17:18 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; User not found or password incorrect. Please try again.
+15:17:18 DEBUG: Hooks - ***** END of Scenario: Login faled because of wrong password *****
+15:17:18 DEBUG: Hooks - ***** START of Scenario: Login faled because of wrong username *****
+15:17:18 INFO : InitDriver - ===============================================================
+15:17:18 INFO : InitDriver - |          Environment : ft
+15:17:18 INFO : InitDriver - |          Browser: firefox
+15:17:18 INFO : InitDriver - |          Browser config file: firefox.properties
+15:17:18 INFO : InitDriver - ===============================================================
+
+15:17:24 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; userName
+15:17:24 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: userName
+15:17:30 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:17:30 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:17:35 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; User not found or password incorrect. Please try again.
+15:17:35 DEBUG: Hooks - ***** END of Scenario: Login faled because of wrong username *****
+15:17:35 DEBUG: Hooks - ***** START of Scenario: Login failed because the user leaves empty username field or Password field *****
+15:17:35 INFO : InitDriver - ===============================================================
+15:17:35 INFO : InitDriver - |          Environment : ft
+15:17:35 INFO : InitDriver - |          Browser: firefox
+15:17:35 INFO : InitDriver - |          Browser config file: firefox.properties
+15:17:35 INFO : InitDriver - ===============================================================
+
+15:17:36 DEBUG: Hooks - ***** END of Scenario: Login failed because the user leaves empty username field or Password field *****
+15:17:36 DEBUG: Hooks - ***** START of Scenario: Login failed because user leaves empty Password field *****
+15:17:36 INFO : InitDriver - ===============================================================
+15:17:36 INFO : InitDriver - |          Environment : ft
+15:17:36 INFO : InitDriver - |          Browser: firefox
+15:17:36 INFO : InitDriver - |          Browser config file: firefox.properties
+15:17:36 INFO : InitDriver - ===============================================================
+
+15:17:42 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; userName
+15:17:42 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: userName
+15:17:42 DEBUG: Hooks - ***** END of Scenario: Login failed because user leaves empty Password field *****
+15:17:42 DEBUG: Hooks - ***** START of Scenario: Scenario: Login failed because user leaves empty username field *****
+15:17:42 INFO : InitDriver - ===============================================================
+15:17:42 INFO : InitDriver - |          Environment : ft
+15:17:42 INFO : InitDriver - |          Browser: firefox
+15:17:42 INFO : InitDriver - |          Browser config file: firefox.properties
+15:17:42 INFO : InitDriver - ===============================================================
+
+15:17:48 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:17:48 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:17:48 DEBUG: Hooks - ***** END of Scenario: Scenario: Login failed because user leaves empty username field *****
+15:17:48 DEBUG: Hooks - ***** START of Scenario: Members Area *****
+15:17:48 INFO : InitDriver - ===============================================================
+15:17:48 INFO : InitDriver - |          Environment : ft
+15:17:48 INFO : InitDriver - |          Browser: firefox
+15:17:48 INFO : InitDriver - |          Browser config file: firefox.properties
+15:17:48 INFO : InitDriver - ===============================================================
+
+15:17:55 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; userName
+15:17:55 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: userName
+15:18:00 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:18:00 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:18:00 DEBUG: Hooks - ***** END of Scenario: Members Area *****
+15:18:00 DEBUG: Hooks - ***** START of Scenario: Update Profile *****
+15:18:00 INFO : InitDriver - ===============================================================
+15:18:00 INFO : InitDriver - |          Environment : ft
+15:18:00 INFO : InitDriver - |          Browser: firefox
+15:18:00 INFO : InitDriver - |          Browser config file: firefox.properties
+15:18:00 INFO : InitDriver - ===============================================================
+
+15:18:06 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; userName
+15:18:06 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: userName
+15:18:11 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:18:11 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:18:17 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Update Profile
+15:18:17 DEBUG: Hooks - ***** END of Scenario: Update Profile *****
+15:18:17 DEBUG: Hooks - ***** START of Scenario: Change Password *****
+15:18:17 INFO : InitDriver - ===============================================================
+15:18:17 INFO : InitDriver - |          Environment : ft
+15:18:17 INFO : InitDriver - |          Browser: firefox
+15:18:17 INFO : InitDriver - |          Browser config file: firefox.properties
+15:18:17 INFO : InitDriver - ===============================================================
+
+15:18:23 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:18:23 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:18:28 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:18:28 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:18:33 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Change Password
+15:18:33 DEBUG: Hooks - ***** END of Scenario: Change Password *****
+15:18:33 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user leaves empty Old Password *****
+15:18:33 INFO : InitDriver - ===============================================================
+15:18:33 INFO : InitDriver - |          Environment : ft
+15:18:33 INFO : InitDriver - |          Browser: firefox
+15:18:33 INFO : InitDriver - |          Browser config file: firefox.properties
+15:18:33 INFO : InitDriver - ===============================================================
+
+15:18:40 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:18:40 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:18:45 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:18:45 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:18:50 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Change Password
+15:18:50 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user leaves empty Old Password *****
+15:18:50 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user write wrong  Old Password *****
+15:18:50 INFO : InitDriver - ===============================================================
+15:18:50 INFO : InitDriver - |          Environment : ft
+15:18:50 INFO : InitDriver - |          Browser: firefox
+15:18:50 INFO : InitDriver - |          Browser config file: firefox.properties
+15:18:50 INFO : InitDriver - ===============================================================
+
+15:18:56 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:18:56 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:19:01 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:19:01 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:19:07 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Change Password
+15:19:07 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user write wrong  Old Password *****
+15:19:07 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user leaves empty New Password field *****
+15:19:07 INFO : InitDriver - ===============================================================
+15:19:07 INFO : InitDriver - |          Environment : ft
+15:19:07 INFO : InitDriver - |          Browser: firefox
+15:19:07 INFO : InitDriver - |          Browser config file: firefox.properties
+15:19:07 INFO : InitDriver - ===============================================================
+
+15:19:13 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:19:13 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:19:18 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:19:18 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:19:23 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Change Password
+15:19:23 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user leaves empty New Password field *****
+15:19:23 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user leaves empty Confirm New Password field *****
+15:19:23 INFO : InitDriver - ===============================================================
+15:19:23 INFO : InitDriver - |          Environment : ft
+15:19:23 INFO : InitDriver - |          Browser: firefox
+15:19:23 INFO : InitDriver - |          Browser config file: firefox.properties
+15:19:23 INFO : InitDriver - ===============================================================
+
+15:19:29 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:19:29 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:19:34 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:19:34 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:19:39 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Change Password
+15:19:39 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user leaves empty Confirm New Password field *****
+15:19:39 DEBUG: Hooks - ***** START of Scenario: User Account History *****
+15:19:39 INFO : InitDriver - ===============================================================
+15:19:39 INFO : InitDriver - |          Environment : ft
+15:19:39 INFO : InitDriver - |          Browser: firefox
+15:19:39 INFO : InitDriver - |          Browser config file: firefox.properties
+15:19:39 INFO : InitDriver - ===============================================================
+
+15:19:45 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:19:45 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:19:50 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:19:50 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:19:55 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; User Account History
+15:19:55 DEBUG: Hooks - ***** END of Scenario: User Account History *****
+15:19:55 DEBUG: Hooks - ***** START of Scenario: Logout *****
+15:19:55 INFO : InitDriver - ===============================================================
+15:19:55 INFO : InitDriver - |          Environment : ft
+15:19:55 INFO : InitDriver - |          Browser: firefox
+15:19:55 INFO : InitDriver - |          Browser config file: firefox.properties
+15:19:55 INFO : InitDriver - ===============================================================
+
+15:20:02 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:20:02 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:20:07 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:20:07 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:20:12 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Logout
+15:20:12 DEBUG: Hooks - ***** END of Scenario: Logout *****
+15:20:12 DEBUG: Hooks - ***** START of Scenario: Home *****
+15:20:12 INFO : InitDriver - ===============================================================
+15:20:12 INFO : InitDriver - |          Environment : ft
+15:20:12 INFO : InitDriver - |          Browser: firefox
+15:20:12 INFO : InitDriver - |          Browser config file: firefox.properties
+15:20:12 INFO : InitDriver - ===============================================================
+
+15:20:14 DEBUG: Hooks - ***** END of Scenario: Home *****
+15:20:14 DEBUG: Hooks - ***** START of Scenario: About Us *****
+15:20:14 INFO : InitDriver - ===============================================================
+15:20:14 INFO : InitDriver - |          Environment : ft
+15:20:14 INFO : InitDriver - |          Browser: firefox
+15:20:14 INFO : InitDriver - |          Browser config file: firefox.properties
+15:20:14 INFO : InitDriver - ===============================================================
+
+15:20:15 DEBUG: Hooks - ***** END of Scenario: About Us *****
+15:20:15 DEBUG: Hooks - ***** START of Scenario: Healthcare Professionals *****
+15:20:15 INFO : InitDriver - ===============================================================
+15:20:15 INFO : InitDriver - |          Environment : ft
+15:20:15 INFO : InitDriver - |          Browser: firefox
+15:20:15 INFO : InitDriver - |          Browser config file: firefox.properties
+15:20:15 INFO : InitDriver - ===============================================================
+
+15:20:18 DEBUG: Hooks - ***** END of Scenario: Healthcare Professionals *****
+15:20:18 DEBUG: Hooks - ***** START of Scenario: Products/Services *****
+15:20:18 INFO : InitDriver - ===============================================================
+15:20:18 INFO : InitDriver - |          Environment : ft
+15:20:18 INFO : InitDriver - |          Browser: firefox
+15:20:18 INFO : InitDriver - |          Browser config file: firefox.properties
+15:20:18 INFO : InitDriver - ===============================================================
+
+15:20:20 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: Compound Pharmacy
+15:20:21 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: DNA/Toxicology
+15:20:22 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: HRMS
+15:20:23 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: NSS Device
+15:20:24 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: Heartwise
+15:20:25 DEBUG: Hooks - ***** END of Scenario: Products/Services *****
+15:20:25 DEBUG: Hooks - ***** START of Scenario: Additional Services *****
+15:20:25 INFO : InitDriver - ===============================================================
+15:20:25 INFO : InitDriver - |          Environment : ft
+15:20:25 INFO : InitDriver - |          Browser: firefox
+15:20:25 INFO : InitDriver - |          Browser config file: firefox.properties
+15:20:25 INFO : InitDriver - ===============================================================
+
+15:20:27 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: Responsive Website Design
+15:20:29 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: SEO
+15:20:31 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: Reputation Management
+15:20:34 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: Lead Management
+15:20:35 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: Performance Reporting
+15:20:36 DEBUG: Hooks - ***** END of Scenario: Additional Services *****
+15:20:36 DEBUG: Hooks - ***** START of Scenario: Blog *****
+15:20:36 INFO : InitDriver - ===============================================================
+15:20:36 INFO : InitDriver - |          Environment : ft
+15:20:36 INFO : InitDriver - |          Browser: firefox
+15:20:36 INFO : InitDriver - |          Browser config file: firefox.properties
+15:20:36 INFO : InitDriver - ===============================================================
+
+15:20:39 DEBUG: Hooks - ***** END of Scenario: Blog *****
+15:20:39 DEBUG: Hooks - ***** START of Scenario: Contact Us *****
+15:20:39 INFO : InitDriver - ===============================================================
+15:20:39 INFO : InitDriver - |          Environment : ft
+15:20:39 INFO : InitDriver - |          Browser: firefox
+15:20:39 INFO : InitDriver - |          Browser config file: firefox.properties
+15:20:39 INFO : InitDriver - ===============================================================
+
+15:20:42 DEBUG: Hooks - ***** END of Scenario: Contact Us *****
+15:20:42 DEBUG: Hooks - ***** START of Scenario: Contact Us Information *****
+15:20:42 INFO : InitDriver - ===============================================================
+15:20:42 INFO : InitDriver - |          Environment : ft
+15:20:42 INFO : InitDriver - |          Browser: firefox
+15:20:42 INFO : InitDriver - |          Browser config file: firefox.properties
+15:20:42 INFO : InitDriver - ===============================================================
+
+15:20:49 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; lastName
+15:20:49 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: lastName
+15:20:50 ERROR: WebLocatorDriverExecutor - ElementNotVisibleException in setValue: email
+org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 218 milliseconds
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'Daniels-MBP', ip: '192.168.1.67', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 31016863-bccf-5445-865b-fe69c2f3c90b
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:273)
+	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:118)
+	at com.sdl.selenium.web.WebLocatorDriverExecutor.doSetValue(WebLocatorDriverExecutor.java:213)
+	at com.sdl.selenium.web.WebLocatorDriverExecutor.setValue(WebLocatorDriverExecutor.java:189)
+	at com.sdl.selenium.web.form.TextField.setValue(TextField.java:43)
+	at com.zikyo.steps.genericSteps.GenericSteps.I_type_into_field_with_id(GenericSteps.java:125)
+	at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at cucumber.runtime.Utils$1.call(Utils.java:34)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:13)
+	at cucumber.runtime.Utils.invoke(Utils.java:30)
+	at cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:35)
+	at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
+	at cucumber.runtime.Runtime.runStep(Runtime.java:298)
+	at cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)
+	at cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)
+	at cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:48)
+	at cucumber.runtime.model.CucumberFeature.run(CucumberFeature.java:163)
+	at cucumber.runtime.Runtime.run(Runtime.java:120)
+	at cucumber.api.cli.Main.run(Main.java:36)
+	at cucumber.api.cli.Main.main(Main.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140)
+Caused by: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'Daniels-MBP', ip: '192.168.1.67', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_31'
+Driver info: driver.version: unknown
+	at <anonymous class>.fxdriver.preconditions.visible(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous44328755043033933webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:9982)
+	at <anonymous class>.DelayedCommand.prototype.checkPreconditions_(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous44328755043033933webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12626)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous44328755043033933webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous44328755043033933webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:623)
+15:20:50 DEBUG: Hooks - ***** END of Scenario: Contact Us Information *****
+15:25:22 DEBUG: Hooks - ***** START of Scenario: Update Profile *****
+15:25:22 INFO : InitDriver - ===============================================================
+15:25:22 INFO : InitDriver - |          Environment : ft
+15:25:22 INFO : InitDriver - |          Browser: firefox
+15:25:22 INFO : InitDriver - |          Browser config file: firefox.properties
+15:25:22 INFO : InitDriver - ===============================================================
+
+15:25:35 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; userName
+15:25:35 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: userName
+15:25:40 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:25:40 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:25:45 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Update Profile
+15:25:45 DEBUG: Hooks - ***** END of Scenario: Update Profile *****
+15:26:07 DEBUG: Hooks - ***** START of Scenario: Members Area *****
+15:26:07 INFO : InitDriver - ===============================================================
+15:26:07 INFO : InitDriver - |          Environment : ft
+15:26:07 INFO : InitDriver - |          Browser: firefox
+15:26:07 INFO : InitDriver - |          Browser config file: firefox.properties
+15:26:07 INFO : InitDriver - ===============================================================
+
+15:26:20 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; userName
+15:26:20 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: userName
+15:26:25 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:26:25 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:26:31 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Members Area
+15:26:31 DEBUG: Hooks - ***** END of Scenario: Members Area *****
+15:27:21 DEBUG: Hooks - ***** START of Scenario: Login faled because of wrong username *****
+15:27:21 INFO : InitDriver - ===============================================================
+15:27:21 INFO : InitDriver - |          Environment : ft
+15:27:21 INFO : InitDriver - |          Browser: firefox
+15:27:21 INFO : InitDriver - |          Browser config file: firefox.properties
+15:27:21 INFO : InitDriver - ===============================================================
+
+15:27:34 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:27:34 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:27:39 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; User not found or password incorrect. Please try again.
+15:27:39 DEBUG: Hooks - ***** END of Scenario: Login faled because of wrong username *****
+15:28:04 DEBUG: Hooks - ***** START of Scenario: If you are not a member *****
+15:28:04 INFO : InitDriver - ===============================================================
+15:28:04 INFO : InitDriver - |          Environment : ft
+15:28:04 INFO : InitDriver - |          Browser: firefox
+15:28:04 INFO : InitDriver - |          Browser config file: firefox.properties
+15:28:04 INFO : InitDriver - ===============================================================
+
+15:28:14 DEBUG: Hooks - ***** END of Scenario: If you are not a member *****
+15:28:14 DEBUG: Hooks - ***** START of Scenario: My account loggin succesful *****
+15:28:14 INFO : InitDriver - ===============================================================
+15:28:14 INFO : InitDriver - |          Environment : ft
+15:28:14 INFO : InitDriver - |          Browser: firefox
+15:28:14 INFO : InitDriver - |          Browser config file: firefox.properties
+15:28:14 INFO : InitDriver - ===============================================================
+
+15:28:17 DEBUG: Hooks - ***** END of Scenario: My account loggin succesful *****
+15:28:17 DEBUG: Hooks - ***** START of Scenario: Logout *****
+15:28:17 INFO : InitDriver - ===============================================================
+15:28:17 INFO : InitDriver - |          Environment : ft
+15:28:17 INFO : InitDriver - |          Browser: firefox
+15:28:17 INFO : InitDriver - |          Browser config file: firefox.properties
+15:28:17 INFO : InitDriver - ===============================================================
+
+15:28:23 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; userName
+15:28:23 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: userName
+15:28:29 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:28:29 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:28:29 DEBUG: Hooks - ***** END of Scenario: Logout *****
+15:28:29 DEBUG: Hooks - ***** START of Scenario: Login failed because of wrong username and password *****
+15:28:29 INFO : InitDriver - ===============================================================
+15:28:29 INFO : InitDriver - |          Environment : ft
+15:28:29 INFO : InitDriver - |          Browser: firefox
+15:28:29 INFO : InitDriver - |          Browser config file: firefox.properties
+15:28:29 INFO : InitDriver - ===============================================================
+
+15:28:36 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:28:36 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:28:41 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; User not found or password incorrect. Please try again.
+15:28:41 DEBUG: Hooks - ***** END of Scenario: Login failed because of wrong username and password *****
+15:28:41 DEBUG: Hooks - ***** START of Scenario: Login failed because of wrong password *****
+15:28:41 INFO : InitDriver - ===============================================================
+15:28:41 INFO : InitDriver - |          Environment : ft
+15:28:41 INFO : InitDriver - |          Browser: firefox
+15:28:41 INFO : InitDriver - |          Browser config file: firefox.properties
+15:28:41 INFO : InitDriver - ===============================================================
+
+15:28:48 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:28:48 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:28:53 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; User not found or password incorrect. Please try again.
+15:28:53 DEBUG: Hooks - ***** END of Scenario: Login failed because of wrong password *****
+15:28:53 DEBUG: Hooks - ***** START of Scenario: Login faled because of wrong username *****
+15:28:53 INFO : InitDriver - ===============================================================
+15:28:53 INFO : InitDriver - |          Environment : ft
+15:28:53 INFO : InitDriver - |          Browser: firefox
+15:28:53 INFO : InitDriver - |          Browser config file: firefox.properties
+15:28:53 INFO : InitDriver - ===============================================================
+
+15:29:00 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:29:00 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:29:05 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; User not found or password incorrect. Please try again.
+15:29:05 DEBUG: Hooks - ***** END of Scenario: Login faled because of wrong username *****
+15:29:05 DEBUG: Hooks - ***** START of Scenario: Login failed because the user leaves empty username field or Password field *****
+15:29:05 INFO : InitDriver - ===============================================================
+15:29:05 INFO : InitDriver - |          Environment : ft
+15:29:05 INFO : InitDriver - |          Browser: firefox
+15:29:05 INFO : InitDriver - |          Browser config file: firefox.properties
+15:29:05 INFO : InitDriver - ===============================================================
+
+15:29:07 DEBUG: Hooks - ***** END of Scenario: Login failed because the user leaves empty username field or Password field *****
+15:29:07 DEBUG: Hooks - ***** START of Scenario: Login failed because user leaves empty Password field *****
+15:29:07 INFO : InitDriver - ===============================================================
+15:29:07 INFO : InitDriver - |          Environment : ft
+15:29:07 INFO : InitDriver - |          Browser: firefox
+15:29:07 INFO : InitDriver - |          Browser config file: firefox.properties
+15:29:07 INFO : InitDriver - ===============================================================
+
+15:29:13 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; userName
+15:29:13 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: userName
+15:29:13 DEBUG: Hooks - ***** END of Scenario: Login failed because user leaves empty Password field *****
+15:29:13 DEBUG: Hooks - ***** START of Scenario: Scenario: Login failed because user leaves empty username field *****
+15:29:13 INFO : InitDriver - ===============================================================
+15:29:13 INFO : InitDriver - |          Environment : ft
+15:29:13 INFO : InitDriver - |          Browser: firefox
+15:29:13 INFO : InitDriver - |          Browser config file: firefox.properties
+15:29:13 INFO : InitDriver - ===============================================================
+
+15:29:20 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:29:20 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:29:20 DEBUG: Hooks - ***** END of Scenario: Scenario: Login failed because user leaves empty username field *****
+15:29:20 DEBUG: Hooks - ***** START of Scenario: Members Area *****
+15:29:20 INFO : InitDriver - ===============================================================
+15:29:20 INFO : InitDriver - |          Environment : ft
+15:29:20 INFO : InitDriver - |          Browser: firefox
+15:29:20 INFO : InitDriver - |          Browser config file: firefox.properties
+15:29:20 INFO : InitDriver - ===============================================================
+
+15:29:26 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:29:26 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:29:31 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Members Area
+15:29:31 DEBUG: Hooks - ***** END of Scenario: Members Area *****
+15:29:31 DEBUG: Hooks - ***** START of Scenario: Update Profile *****
+15:29:31 INFO : InitDriver - ===============================================================
+15:29:31 INFO : InitDriver - |          Environment : ft
+15:29:31 INFO : InitDriver - |          Browser: firefox
+15:29:31 INFO : InitDriver - |          Browser config file: firefox.properties
+15:29:31 INFO : InitDriver - ===============================================================
+
+15:29:37 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:29:37 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:29:43 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Update Profile
+15:29:43 DEBUG: Hooks - ***** END of Scenario: Update Profile *****
+15:29:43 DEBUG: Hooks - ***** START of Scenario: Change Password *****
+15:29:43 INFO : InitDriver - ===============================================================
+15:29:43 INFO : InitDriver - |          Environment : ft
+15:29:43 INFO : InitDriver - |          Browser: firefox
+15:29:43 INFO : InitDriver - |          Browser config file: firefox.properties
+15:29:43 INFO : InitDriver - ===============================================================
+
+15:29:48 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:29:48 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:29:54 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:29:54 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:29:59 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Change Password
+15:29:59 DEBUG: Hooks - ***** END of Scenario: Change Password *****
+15:29:59 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user leaves empty Old Password *****
+15:29:59 INFO : InitDriver - ===============================================================
+15:29:59 INFO : InitDriver - |          Environment : ft
+15:29:59 INFO : InitDriver - |          Browser: firefox
+15:29:59 INFO : InitDriver - |          Browser config file: firefox.properties
+15:29:59 INFO : InitDriver - ===============================================================
+
+15:30:06 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:30:06 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:30:11 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:30:11 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:30:16 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Change Password
+15:30:16 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user leaves empty Old Password *****
+15:30:16 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user write wrong  Old Password *****
+15:30:16 INFO : InitDriver - ===============================================================
+15:30:16 INFO : InitDriver - |          Environment : ft
+15:30:16 INFO : InitDriver - |          Browser: firefox
+15:30:16 INFO : InitDriver - |          Browser config file: firefox.properties
+15:30:16 INFO : InitDriver - ===============================================================
+
+15:30:22 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:30:22 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:30:28 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:30:28 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:30:33 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Change Password
+15:30:33 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user write wrong  Old Password *****
+15:30:33 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user leaves empty New Password field *****
+15:30:33 INFO : InitDriver - ===============================================================
+15:30:33 INFO : InitDriver - |          Environment : ft
+15:30:33 INFO : InitDriver - |          Browser: firefox
+15:30:33 INFO : InitDriver - |          Browser config file: firefox.properties
+15:30:33 INFO : InitDriver - ===============================================================
+
+15:30:39 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:30:39 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:30:44 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:30:44 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:30:49 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Change Password
+15:30:49 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user leaves empty New Password field *****
+15:30:49 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user leaves empty Confirm New Password field *****
+15:30:49 INFO : InitDriver - ===============================================================
+15:30:49 INFO : InitDriver - |          Environment : ft
+15:30:49 INFO : InitDriver - |          Browser: firefox
+15:30:49 INFO : InitDriver - |          Browser config file: firefox.properties
+15:30:49 INFO : InitDriver - ===============================================================
+
+15:30:56 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:30:56 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:31:01 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:31:01 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:31:06 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Change Password
+15:31:06 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user leaves empty Confirm New Password field *****
+15:31:06 DEBUG: Hooks - ***** START of Scenario: User Account History *****
+15:31:06 INFO : InitDriver - ===============================================================
+15:31:06 INFO : InitDriver - |          Environment : ft
+15:31:06 INFO : InitDriver - |          Browser: firefox
+15:31:06 INFO : InitDriver - |          Browser config file: firefox.properties
+15:31:06 INFO : InitDriver - ===============================================================
+
+15:31:13 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:31:13 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:31:18 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:31:18 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:31:23 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; User Account History
+15:31:23 DEBUG: Hooks - ***** END of Scenario: User Account History *****
+15:31:23 DEBUG: Hooks - ***** START of Scenario: Logout *****
+15:31:23 INFO : InitDriver - ===============================================================
+15:31:23 INFO : InitDriver - |          Environment : ft
+15:31:23 INFO : InitDriver - |          Browser: firefox
+15:31:23 INFO : InitDriver - |          Browser config file: firefox.properties
+15:31:23 INFO : InitDriver - ===============================================================
+
+15:31:29 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:31:29 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:31:34 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:31:34 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:31:40 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Logout
+15:31:40 DEBUG: Hooks - ***** END of Scenario: Logout *****
+15:31:40 DEBUG: Hooks - ***** START of Scenario: Home *****
+15:31:40 INFO : InitDriver - ===============================================================
+15:31:40 INFO : InitDriver - |          Environment : ft
+15:31:40 INFO : InitDriver - |          Browser: firefox
+15:31:40 INFO : InitDriver - |          Browser config file: firefox.properties
+15:31:40 INFO : InitDriver - ===============================================================
+
+15:31:41 DEBUG: Hooks - ***** END of Scenario: Home *****
+15:31:41 DEBUG: Hooks - ***** START of Scenario: About Us *****
+15:31:41 INFO : InitDriver - ===============================================================
+15:31:41 INFO : InitDriver - |          Environment : ft
+15:31:41 INFO : InitDriver - |          Browser: firefox
+15:31:41 INFO : InitDriver - |          Browser config file: firefox.properties
+15:31:41 INFO : InitDriver - ===============================================================
+
+15:31:43 DEBUG: Hooks - ***** END of Scenario: About Us *****
+15:31:43 DEBUG: Hooks - ***** START of Scenario: Healthcare Professionals *****
+15:31:43 INFO : InitDriver - ===============================================================
+15:31:43 INFO : InitDriver - |          Environment : ft
+15:31:43 INFO : InitDriver - |          Browser: firefox
+15:31:43 INFO : InitDriver - |          Browser config file: firefox.properties
+15:31:43 INFO : InitDriver - ===============================================================
+
+15:31:44 DEBUG: Hooks - ***** END of Scenario: Healthcare Professionals *****
+15:31:44 DEBUG: Hooks - ***** START of Scenario: Products/Services *****
+15:31:44 INFO : InitDriver - ===============================================================
+15:31:44 INFO : InitDriver - |          Environment : ft
+15:31:44 INFO : InitDriver - |          Browser: firefox
+15:31:44 INFO : InitDriver - |          Browser config file: firefox.properties
+15:31:44 INFO : InitDriver - ===============================================================
+
+15:31:46 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: Compound Pharmacy
+15:31:47 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: DNA/Toxicology
+15:31:50 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: NSS Device
+15:31:51 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: Heartwise
+15:31:52 DEBUG: Hooks - ***** END of Scenario: Products/Services *****
+15:31:52 DEBUG: Hooks - ***** START of Scenario: Additional Services *****
+15:31:52 INFO : InitDriver - ===============================================================
+15:31:52 INFO : InitDriver - |          Environment : ft
+15:31:52 INFO : InitDriver - |          Browser: firefox
+15:31:52 INFO : InitDriver - |          Browser config file: firefox.properties
+15:31:52 INFO : InitDriver - ===============================================================
+
+15:31:56 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: SEO
+15:31:58 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: Social Media
+15:32:00 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: Content Writing
+15:32:01 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: Marketing Campaigns
+15:32:05 DEBUG: Hooks - ***** END of Scenario: Additional Services *****
+15:32:05 DEBUG: Hooks - ***** START of Scenario: Blog *****
+15:32:05 INFO : InitDriver - ===============================================================
+15:32:05 INFO : InitDriver - |          Environment : ft
+15:32:05 INFO : InitDriver - |          Browser: firefox
+15:32:05 INFO : InitDriver - |          Browser config file: firefox.properties
+15:32:05 INFO : InitDriver - ===============================================================
+
+15:32:08 DEBUG: Hooks - ***** END of Scenario: Blog *****
+15:32:08 DEBUG: Hooks - ***** START of Scenario: Contact Us *****
+15:32:08 INFO : InitDriver - ===============================================================
+15:32:08 INFO : InitDriver - |          Environment : ft
+15:32:08 INFO : InitDriver - |          Browser: firefox
+15:32:08 INFO : InitDriver - |          Browser config file: firefox.properties
+15:32:08 INFO : InitDriver - ===============================================================
+
+15:32:11 DEBUG: Hooks - ***** END of Scenario: Contact Us *****
+15:32:11 DEBUG: Hooks - ***** START of Scenario: Contact Us Information *****
+15:32:11 INFO : InitDriver - ===============================================================
+15:32:11 INFO : InitDriver - |          Environment : ft
+15:32:11 INFO : InitDriver - |          Browser: firefox
+15:32:11 INFO : InitDriver - |          Browser config file: firefox.properties
+15:32:11 INFO : InitDriver - ===============================================================
+
+15:32:19 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; lastName
+15:32:19 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: lastName
+15:32:19 ERROR: WebLocatorDriverExecutor - ElementNotVisibleException in setValue: email
+org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 218 milliseconds
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'Daniels-MBP', ip: '192.168.1.67', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: efa5edfc-f8fb-8d40-994f-dd4d742cce30
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:273)
+	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:118)
+	at com.sdl.selenium.web.WebLocatorDriverExecutor.doSetValue(WebLocatorDriverExecutor.java:213)
+	at com.sdl.selenium.web.WebLocatorDriverExecutor.setValue(WebLocatorDriverExecutor.java:189)
+	at com.sdl.selenium.web.form.TextField.setValue(TextField.java:43)
+	at com.zikyo.steps.genericSteps.GenericSteps.I_type_into_field_with_id(GenericSteps.java:125)
+	at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at cucumber.runtime.Utils$1.call(Utils.java:34)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:13)
+	at cucumber.runtime.Utils.invoke(Utils.java:30)
+	at cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:35)
+	at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
+	at cucumber.runtime.Runtime.runStep(Runtime.java:298)
+	at cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)
+	at cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)
+	at cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:48)
+	at cucumber.runtime.model.CucumberFeature.run(CucumberFeature.java:163)
+	at cucumber.runtime.Runtime.run(Runtime.java:120)
+	at cucumber.api.cli.Main.run(Main.java:36)
+	at cucumber.api.cli.Main.main(Main.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140)
+Caused by: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'Daniels-MBP', ip: '192.168.1.67', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_31'
+Driver info: driver.version: unknown
+	at <anonymous class>.fxdriver.preconditions.visible(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous4712084319292759703webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:9982)
+	at <anonymous class>.DelayedCommand.prototype.checkPreconditions_(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous4712084319292759703webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12626)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous4712084319292759703webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous4712084319292759703webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:623)
+15:32:19 DEBUG: Hooks - ***** END of Scenario: Contact Us Information *****
+15:38:37 DEBUG: Hooks - ***** START of Scenario: Login failed because of wrong username and password *****
+15:38:37 INFO : InitDriver - ===============================================================
+15:38:37 INFO : InitDriver - |          Environment : ft
+15:38:37 INFO : InitDriver - |          Browser: firefox
+15:38:37 INFO : InitDriver - |          Browser config file: firefox.properties
+15:38:37 INFO : InitDriver - ===============================================================
+
+15:38:50 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; firstName
+15:38:50 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: firstName
+15:38:56 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; User not found or password incorrect. Please try again.
+15:38:56 DEBUG: Hooks - ***** END of Scenario: Login failed because of wrong username and password *****
+15:41:44 DEBUG: Hooks - ***** START of Scenario: If you are not a member *****
+15:41:44 INFO : InitDriver - ===============================================================
+15:41:44 INFO : InitDriver - |          Environment : ft
+15:41:44 INFO : InitDriver - |          Browser: firefox
+15:41:44 INFO : InitDriver - |          Browser config file: firefox.properties
+15:41:44 INFO : InitDriver - ===============================================================
+
+15:41:54 DEBUG: Hooks - ***** END of Scenario: If you are not a member *****
+15:41:54 DEBUG: Hooks - ***** START of Scenario: My account login succesful *****
+15:41:54 INFO : InitDriver - ===============================================================
+15:41:54 INFO : InitDriver - |          Environment : ft
+15:41:54 INFO : InitDriver - |          Browser: firefox
+15:41:54 INFO : InitDriver - |          Browser config file: firefox.properties
+15:41:54 INFO : InitDriver - ===============================================================
+
+15:41:57 DEBUG: Hooks - ***** END of Scenario: My account login succesful *****
+15:41:57 DEBUG: Hooks - ***** START of Scenario: Logout *****
+15:41:57 INFO : InitDriver - ===============================================================
+15:41:57 INFO : InitDriver - |          Environment : ft
+15:41:57 INFO : InitDriver - |          Browser: firefox
+15:41:57 INFO : InitDriver - |          Browser config file: firefox.properties
+15:41:57 INFO : InitDriver - ===============================================================
+
+15:42:03 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:42:03 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:42:04 DEBUG: Hooks - ***** END of Scenario: Logout *****
+15:42:04 DEBUG: Hooks - ***** START of Scenario: Login failed because of wrong username and password *****
+15:42:04 INFO : InitDriver - ===============================================================
+15:42:04 INFO : InitDriver - |          Environment : ft
+15:42:04 INFO : InitDriver - |          Browser: firefox
+15:42:04 INFO : InitDriver - |          Browser config file: firefox.properties
+15:42:04 INFO : InitDriver - ===============================================================
+
+15:42:07 DEBUG: Hooks - ***** END of Scenario: Login failed because of wrong username and password *****
+15:42:07 DEBUG: Hooks - ***** START of Scenario: Login failed because of wrong password *****
+15:42:07 INFO : InitDriver - ===============================================================
+15:42:07 INFO : InitDriver - |          Environment : ft
+15:42:07 INFO : InitDriver - |          Browser: firefox
+15:42:07 INFO : InitDriver - |          Browser config file: firefox.properties
+15:42:07 INFO : InitDriver - ===============================================================
+
+15:42:09 DEBUG: Hooks - ***** END of Scenario: Login failed because of wrong password *****
+15:42:09 DEBUG: Hooks - ***** START of Scenario: Login faled because of wrong username *****
+15:42:09 INFO : InitDriver - ===============================================================
+15:42:09 INFO : InitDriver - |          Environment : ft
+15:42:09 INFO : InitDriver - |          Browser: firefox
+15:42:09 INFO : InitDriver - |          Browser config file: firefox.properties
+15:42:09 INFO : InitDriver - ===============================================================
+
+15:42:11 DEBUG: Hooks - ***** END of Scenario: Login faled because of wrong username *****
+15:42:11 DEBUG: Hooks - ***** START of Scenario: Login failed because the user leaves empty username field or Password field *****
+15:42:11 INFO : InitDriver - ===============================================================
+15:42:11 INFO : InitDriver - |          Environment : ft
+15:42:11 INFO : InitDriver - |          Browser: firefox
+15:42:11 INFO : InitDriver - |          Browser config file: firefox.properties
+15:42:11 INFO : InitDriver - ===============================================================
+
+15:42:13 DEBUG: Hooks - ***** END of Scenario: Login failed because the user leaves empty username field or Password field *****
+15:42:13 DEBUG: Hooks - ***** START of Scenario: Login failed because user leaves empty Password field *****
+15:42:13 INFO : InitDriver - ===============================================================
+15:42:13 INFO : InitDriver - |          Environment : ft
+15:42:13 INFO : InitDriver - |          Browser: firefox
+15:42:13 INFO : InitDriver - |          Browser config file: firefox.properties
+15:42:13 INFO : InitDriver - ===============================================================
+
+15:42:15 DEBUG: Hooks - ***** END of Scenario: Login failed because user leaves empty Password field *****
+15:42:15 DEBUG: Hooks - ***** START of Scenario: Scenario: Login failed because user leaves empty username field *****
+15:42:15 INFO : InitDriver - ===============================================================
+15:42:15 INFO : InitDriver - |          Environment : ft
+15:42:15 INFO : InitDriver - |          Browser: firefox
+15:42:15 INFO : InitDriver - |          Browser config file: firefox.properties
+15:42:15 INFO : InitDriver - ===============================================================
+
+15:42:21 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+15:42:21 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+15:42:22 DEBUG: Hooks - ***** END of Scenario: Scenario: Login failed because user leaves empty username field *****
+15:42:22 DEBUG: Hooks - ***** START of Scenario: Members Area *****
+15:42:22 INFO : InitDriver - ===============================================================
+15:42:22 INFO : InitDriver - |          Environment : ft
+15:42:22 INFO : InitDriver - |          Browser: firefox
+15:42:22 INFO : InitDriver - |          Browser config file: firefox.properties
+15:42:22 INFO : InitDriver - ===============================================================
+
+15:42:24 DEBUG: Hooks - ***** END of Scenario: Members Area *****
+15:42:24 DEBUG: Hooks - ***** START of Scenario: Update Profile *****
+15:42:24 INFO : InitDriver - ===============================================================
+15:42:24 INFO : InitDriver - |          Environment : ft
+15:42:24 INFO : InitDriver - |          Browser: firefox
+15:42:24 INFO : InitDriver - |          Browser config file: firefox.properties
+15:42:24 INFO : InitDriver - ===============================================================
+
+15:42:33 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Submit
+15:42:33 DEBUG: Hooks - ***** END of Scenario: Update Profile *****
+15:42:33 DEBUG: Hooks - ***** START of Scenario: Change Password *****
+15:42:33 INFO : InitDriver - ===============================================================
+15:42:33 INFO : InitDriver - |          Environment : ft
+15:42:33 INFO : InitDriver - |          Browser: firefox
+15:42:33 INFO : InitDriver - |          Browser config file: firefox.properties
+15:42:33 INFO : InitDriver - ===============================================================
+
+15:42:38 DEBUG: Hooks - ***** END of Scenario: Change Password *****
+15:42:38 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user leaves empty Old Password *****
+15:42:38 INFO : InitDriver - ===============================================================
+15:42:38 INFO : InitDriver - |          Environment : ft
+15:42:38 INFO : InitDriver - |          Browser: firefox
+15:42:38 INFO : InitDriver - |          Browser config file: firefox.properties
+15:42:38 INFO : InitDriver - ===============================================================
+
+15:42:46 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Password
+15:42:46 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: Password
+15:42:47 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user leaves empty Old Password *****
+15:42:47 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user write wrong  Old Password *****
+15:42:47 INFO : InitDriver - ===============================================================
+15:42:47 INFO : InitDriver - |          Environment : ft
+15:42:47 INFO : InitDriver - |          Browser: firefox
+15:42:47 INFO : InitDriver - |          Browser config file: firefox.properties
+15:42:47 INFO : InitDriver - ===============================================================
+
+15:42:55 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Password
+15:42:55 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: Password
+15:42:56 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user write wrong  Old Password *****
+15:42:56 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user leaves empty New Password field *****
+15:42:56 INFO : InitDriver - ===============================================================
+15:42:56 INFO : InitDriver - |          Environment : ft
+15:42:56 INFO : InitDriver - |          Browser: firefox
+15:42:56 INFO : InitDriver - |          Browser config file: firefox.properties
+15:42:56 INFO : InitDriver - ===============================================================
+
+15:43:00 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user leaves empty New Password field *****
+15:43:00 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user leaves empty Confirm New Password field *****
+15:43:00 INFO : InitDriver - ===============================================================
+15:43:00 INFO : InitDriver - |          Environment : ft
+15:43:00 INFO : InitDriver - |          Browser: firefox
+15:43:00 INFO : InitDriver - |          Browser config file: firefox.properties
+15:43:00 INFO : InitDriver - ===============================================================
+
+15:43:08 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Password
+15:43:08 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: Password
+15:43:09 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user leaves empty Confirm New Password field *****
+15:43:09 DEBUG: Hooks - ***** START of Scenario: User Account History *****
+15:43:09 INFO : InitDriver - ===============================================================
+15:43:09 INFO : InitDriver - |          Environment : ft
+15:43:09 INFO : InitDriver - |          Browser: firefox
+15:43:09 INFO : InitDriver - |          Browser config file: firefox.properties
+15:43:09 INFO : InitDriver - ===============================================================
+
+15:43:12 DEBUG: Hooks - ***** END of Scenario: User Account History *****
+15:43:12 DEBUG: Hooks - ***** START of Scenario: Logout *****
+15:43:12 INFO : InitDriver - ===============================================================
+15:43:12 INFO : InitDriver - |          Environment : ft
+15:43:12 INFO : InitDriver - |          Browser: firefox
+15:43:12 INFO : InitDriver - |          Browser config file: firefox.properties
+15:43:12 INFO : InitDriver - ===============================================================
+
+15:43:15 DEBUG: Hooks - ***** END of Scenario: Logout *****
+15:43:15 DEBUG: Hooks - ***** START of Scenario: Home *****
+15:43:15 INFO : InitDriver - ===============================================================
+15:43:15 INFO : InitDriver - |          Environment : ft
+15:43:15 INFO : InitDriver - |          Browser: firefox
+15:43:15 INFO : InitDriver - |          Browser config file: firefox.properties
+15:43:15 INFO : InitDriver - ===============================================================
+
+15:43:17 DEBUG: Hooks - ***** END of Scenario: Home *****
+15:43:17 DEBUG: Hooks - ***** START of Scenario: About Us *****
+15:43:17 INFO : InitDriver - ===============================================================
+15:43:17 INFO : InitDriver - |          Environment : ft
+15:43:17 INFO : InitDriver - |          Browser: firefox
+15:43:17 INFO : InitDriver - |          Browser config file: firefox.properties
+15:43:17 INFO : InitDriver - ===============================================================
+
+15:43:19 DEBUG: Hooks - ***** END of Scenario: About Us *****
+15:43:19 DEBUG: Hooks - ***** START of Scenario: Healthcare Professionals *****
+15:43:19 INFO : InitDriver - ===============================================================
+15:43:19 INFO : InitDriver - |          Environment : ft
+15:43:19 INFO : InitDriver - |          Browser: firefox
+15:43:19 INFO : InitDriver - |          Browser config file: firefox.properties
+15:43:19 INFO : InitDriver - ===============================================================
+
+15:43:20 DEBUG: Hooks - ***** END of Scenario: Healthcare Professionals *****
+15:43:20 DEBUG: Hooks - ***** START of Scenario: Products/Services *****
+15:43:20 INFO : InitDriver - ===============================================================
+15:43:20 INFO : InitDriver - |          Environment : ft
+15:43:20 INFO : InitDriver - |          Browser: firefox
+15:43:20 INFO : InitDriver - |          Browser config file: firefox.properties
+15:43:20 INFO : InitDriver - ===============================================================
+
+15:43:22 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: Compound Pharmacy
+15:43:23 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: DNA/Toxicology
+15:43:24 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: HRMS
+15:43:25 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: NSS Device
+15:43:26 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: Heartwise
+15:43:27 DEBUG: Hooks - ***** END of Scenario: Products/Services *****
+15:43:27 DEBUG: Hooks - ***** START of Scenario: Additional Services *****
+15:43:27 INFO : InitDriver - ===============================================================
+15:43:27 INFO : InitDriver - |          Environment : ft
+15:43:27 INFO : InitDriver - |          Browser: firefox
+15:43:27 INFO : InitDriver - |          Browser config file: firefox.properties
+15:43:27 INFO : InitDriver - ===============================================================
+
+15:43:29 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: Responsive Website Design
+15:43:32 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: Social Media
+15:43:34 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: Content Writing
+15:43:35 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: Marketing Campaigns
+15:43:36 ERROR: WebLocatorDriverExecutor - InvalidElementStateException in doClick: Lead Management
+15:43:38 DEBUG: Hooks - ***** END of Scenario: Additional Services *****
+15:43:38 DEBUG: Hooks - ***** START of Scenario: Blog *****
+15:43:38 INFO : InitDriver - ===============================================================
+15:43:38 INFO : InitDriver - |          Environment : ft
+15:43:38 INFO : InitDriver - |          Browser: firefox
+15:43:38 INFO : InitDriver - |          Browser config file: firefox.properties
+15:43:38 INFO : InitDriver - ===============================================================
+
+15:43:41 DEBUG: Hooks - ***** END of Scenario: Blog *****
+15:43:41 DEBUG: Hooks - ***** START of Scenario: Contact Us *****
+15:43:41 INFO : InitDriver - ===============================================================
+15:43:41 INFO : InitDriver - |          Environment : ft
+15:43:41 INFO : InitDriver - |          Browser: firefox
+15:43:41 INFO : InitDriver - |          Browser config file: firefox.properties
+15:43:41 INFO : InitDriver - ===============================================================
+
+15:43:44 DEBUG: Hooks - ***** END of Scenario: Contact Us *****
+15:43:44 DEBUG: Hooks - ***** START of Scenario: Contact Us Information *****
+15:43:44 INFO : InitDriver - ===============================================================
+15:43:44 INFO : InitDriver - |          Environment : ft
+15:43:44 INFO : InitDriver - |          Browser: firefox
+15:43:44 INFO : InitDriver - |          Browser config file: firefox.properties
+15:43:44 INFO : InitDriver - ===============================================================
+
+15:43:52 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; lastName
+15:43:52 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: lastName
+15:43:52 ERROR: WebLocatorDriverExecutor - ElementNotVisibleException in setValue: email
+org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 214 milliseconds
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'Daniels-MBP', ip: '192.168.1.67', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e743e0cf-add5-704e-adcc-592d5d0be558
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:273)
+	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:118)
+	at com.sdl.selenium.web.WebLocatorDriverExecutor.doSetValue(WebLocatorDriverExecutor.java:213)
+	at com.sdl.selenium.web.WebLocatorDriverExecutor.setValue(WebLocatorDriverExecutor.java:189)
+	at com.sdl.selenium.web.form.TextField.setValue(TextField.java:43)
+	at com.zikyo.steps.genericSteps.GenericSteps.I_type_into_field_with_id(GenericSteps.java:125)
+	at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at cucumber.runtime.Utils$1.call(Utils.java:34)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:13)
+	at cucumber.runtime.Utils.invoke(Utils.java:30)
+	at cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:35)
+	at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
+	at cucumber.runtime.Runtime.runStep(Runtime.java:298)
+	at cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)
+	at cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)
+	at cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:48)
+	at cucumber.runtime.model.CucumberFeature.run(CucumberFeature.java:163)
+	at cucumber.runtime.Runtime.run(Runtime.java:120)
+	at cucumber.api.cli.Main.run(Main.java:36)
+	at cucumber.api.cli.Main.main(Main.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140)
+Caused by: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'Daniels-MBP', ip: '192.168.1.67', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_31'
+Driver info: driver.version: unknown
+	at <anonymous class>.fxdriver.preconditions.visible(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous1368694754502566003webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:9982)
+	at <anonymous class>.DelayedCommand.prototype.checkPreconditions_(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous1368694754502566003webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12626)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous1368694754502566003webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous1368694754502566003webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:623)
+15:43:52 DEBUG: Hooks - ***** END of Scenario: Contact Us Information *****
+16:17:37 DEBUG: Hooks - ***** START of Scenario: Contact Us Information *****
+16:17:37 INFO : InitDriver - ===============================================================
+16:17:37 INFO : InitDriver - |          Environment : ft
+16:17:37 INFO : InitDriver - |          Browser: firefox
+16:17:37 INFO : InitDriver - |          Browser config file: firefox.properties
+16:17:37 INFO : InitDriver - ===============================================================
+
+16:17:52 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; lastName
+16:17:52 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: lastName
+16:17:52 ERROR: WebLocatorDriverExecutor - ElementNotVisibleException in setValue: email
+org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 217 milliseconds
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'Daniels-MBP', ip: '192.168.1.67', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6f3eed97-4eef-ab4a-8305-31c9c2382099
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:273)
+	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:118)
+	at com.sdl.selenium.web.WebLocatorDriverExecutor.doSetValue(WebLocatorDriverExecutor.java:213)
+	at com.sdl.selenium.web.WebLocatorDriverExecutor.setValue(WebLocatorDriverExecutor.java:189)
+	at com.sdl.selenium.web.form.TextField.setValue(TextField.java:43)
+	at com.zikyo.steps.genericSteps.GenericSteps.I_type_into_field_with_id(GenericSteps.java:125)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at cucumber.runtime.Utils$1.call(Utils.java:34)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:13)
+	at cucumber.runtime.Utils.invoke(Utils.java:30)
+	at cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:35)
+	at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
+	at cucumber.runtime.Runtime.runStep(Runtime.java:298)
+	at cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)
+	at cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)
+	at cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:48)
+	at cucumber.runtime.model.CucumberFeature.run(CucumberFeature.java:163)
+	at cucumber.runtime.Runtime.run(Runtime.java:120)
+	at cucumber.api.cli.Main.run(Main.java:36)
+	at cucumber.api.cli.Main.main(Main.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140)
+Caused by: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'Daniels-MBP', ip: '192.168.1.67', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_31'
+Driver info: driver.version: unknown
+	at <anonymous class>.fxdriver.preconditions.visible(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous1295042218444447762webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:9982)
+	at <anonymous class>.DelayedCommand.prototype.checkPreconditions_(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous1295042218444447762webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12626)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous1295042218444447762webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous1295042218444447762webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:623)
+16:17:52 DEBUG: Hooks - ***** END of Scenario: Contact Us Information *****
+16:18:17 DEBUG: Hooks - ***** START of Scenario: Contact Us Information *****
+16:18:17 INFO : InitDriver - ===============================================================
+16:18:17 INFO : InitDriver - |          Environment : ft
+16:18:17 INFO : InitDriver - |          Browser: firefox
+16:18:17 INFO : InitDriver - |          Browser config file: firefox.properties
+16:18:17 INFO : InitDriver - ===============================================================
+
+16:18:27 ERROR: WebLocatorDriverExecutor - ElementNotVisibleException in setValue: email
+org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 219 milliseconds
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'Daniels-MBP', ip: '192.168.1.67', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.0, platform=MAC, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ced78ebf-28e1-2048-b6e5-8aab87c945c8
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:273)
+	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:118)
+	at com.sdl.selenium.web.WebLocatorDriverExecutor.doSetValue(WebLocatorDriverExecutor.java:213)
+	at com.sdl.selenium.web.WebLocatorDriverExecutor.setValue(WebLocatorDriverExecutor.java:189)
+	at com.sdl.selenium.web.form.TextField.setValue(TextField.java:43)
+	at com.zikyo.steps.genericSteps.GenericSteps.I_type_into_field_with_id(GenericSteps.java:125)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at cucumber.runtime.Utils$1.call(Utils.java:34)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:13)
+	at cucumber.runtime.Utils.invoke(Utils.java:30)
+	at cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:35)
+	at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
+	at cucumber.runtime.Runtime.runStep(Runtime.java:298)
+	at cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)
+	at cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)
+	at cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:48)
+	at cucumber.runtime.model.CucumberFeature.run(CucumberFeature.java:163)
+	at cucumber.runtime.Runtime.run(Runtime.java:120)
+	at cucumber.api.cli.Main.run(Main.java:36)
+	at cucumber.api.cli.Main.main(Main.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140)
+Caused by: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Build info: version: '2.47.0', revision: '0e4837e94b1fad0db93e88cd972ed3e235a22892', time: '2015-07-29 15:58:41'
+System info: host: 'Daniels-MBP', ip: '192.168.1.67', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.5', java.version: '1.8.0_31'
+Driver info: driver.version: unknown
+	at <anonymous class>.fxdriver.preconditions.visible(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous8467549700975953967webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:9982)
+	at <anonymous class>.DelayedCommand.prototype.checkPreconditions_(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous8467549700975953967webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12626)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous8467549700975953967webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12643)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///var/folders/fs/ykvvvvm548gccb1_z_gkg0f00000gn/T/anonymous8467549700975953967webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:623)
+16:18:27 DEBUG: Hooks - ***** END of Scenario: Contact Us Information *****
+16:19:05 DEBUG: Hooks - ***** START of Scenario: Contact Us Information *****
+16:19:05 INFO : InitDriver - ===============================================================
+16:19:05 INFO : InitDriver - |          Environment : ft
+16:19:05 INFO : InitDriver - |          Browser: firefox
+16:19:05 INFO : InitDriver - |          Browser config file: firefox.properties
+16:19:05 INFO : InitDriver - ===============================================================
+
+16:19:20 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; tel
+16:19:20 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: tel
+16:19:25 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; InputMessage
+16:19:25 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: InputMessage
+16:19:35 DEBUG: Hooks - ***** END of Scenario: Contact Us Information *****
+16:20:06 DEBUG: Hooks - ***** START of Scenario: Contact Us Information *****
+16:20:06 INFO : InitDriver - ===============================================================
+16:20:06 INFO : InitDriver - |          Environment : ft
+16:20:06 INFO : InitDriver - |          Browser: firefox
+16:20:06 INFO : InitDriver - |          Browser config file: firefox.properties
+16:20:06 INFO : InitDriver - ===============================================================
+
+16:20:21 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; InputMessage
+16:20:21 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: InputMessage
+16:20:31 DEBUG: Hooks - ***** END of Scenario: Contact Us Information *****
+16:22:09 DEBUG: Hooks - ***** START of Scenario: Contact Us Information *****
+16:22:09 INFO : InitDriver - ===============================================================
+16:22:09 INFO : InitDriver - |          Environment : ft
+16:22:09 INFO : InitDriver - |          Browser: firefox
+16:22:09 INFO : InitDriver - |          Browser config file: firefox.properties
+16:22:09 INFO : InitDriver - ===============================================================
+
+16:22:24 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; InputMessage
+16:22:24 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: InputMessage
+16:22:32 DEBUG: Hooks - ***** START of Scenario: Contact Us Information *****
+16:22:32 INFO : InitDriver - ===============================================================
+16:22:32 INFO : InitDriver - |          Environment : ft
+16:22:32 INFO : InitDriver - |          Browser: firefox
+16:22:32 INFO : InitDriver - |          Browser config file: firefox.properties
+16:22:32 INFO : InitDriver - ===============================================================
+
+16:22:34 DEBUG: Hooks - ***** END of Scenario: Contact Us Information *****
+16:22:52 DEBUG: Hooks - ***** END of Scenario: Contact Us Information *****
