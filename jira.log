@@ -1454,3 +1454,393 @@ Driver info: driver.version: unknown
 
 16:22:34 DEBUG: Hooks - ***** END of Scenario: Contact Us Information *****
 16:22:52 DEBUG: Hooks - ***** END of Scenario: Contact Us Information *****
+14:20:48 DEBUG: Hooks - ***** START of Scenario: If you are not a member *****
+14:20:48 INFO : InitDriver - ===============================================================
+14:20:48 INFO : InitDriver - |          Environment : ft
+14:20:48 INFO : InitDriver - |          Browser: firefox
+14:20:48 INFO : InitDriver - |          Browser config file: firefox.properties
+14:20:48 INFO : InitDriver - ===============================================================
+
+14:21:04 DEBUG: Hooks - ***** END of Scenario: If you are not a member *****
+14:21:04 DEBUG: Hooks - ***** START of Scenario: My account login succesful *****
+14:21:04 INFO : InitDriver - ===============================================================
+14:21:04 INFO : InitDriver - |          Environment : ft
+14:21:04 INFO : InitDriver - |          Browser: firefox
+14:21:04 INFO : InitDriver - |          Browser config file: firefox.properties
+14:21:04 INFO : InitDriver - ===============================================================
+
+14:21:08 DEBUG: Hooks - ***** END of Scenario: My account login succesful *****
+14:21:08 DEBUG: Hooks - ***** START of Scenario: Logout *****
+14:21:08 INFO : InitDriver - ===============================================================
+14:21:08 INFO : InitDriver - |          Environment : ft
+14:21:08 INFO : InitDriver - |          Browser: firefox
+14:21:08 INFO : InitDriver - |          Browser config file: firefox.properties
+14:21:08 INFO : InitDriver - ===============================================================
+
+14:21:15 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+14:21:15 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+14:21:16 DEBUG: Hooks - ***** END of Scenario: Logout *****
+14:21:16 DEBUG: Hooks - ***** START of Scenario: Login failed because of wrong username and password *****
+14:21:16 INFO : InitDriver - ===============================================================
+14:21:16 INFO : InitDriver - |          Environment : ft
+14:21:16 INFO : InitDriver - |          Browser: firefox
+14:21:16 INFO : InitDriver - |          Browser config file: firefox.properties
+14:21:16 INFO : InitDriver - ===============================================================
+
+14:21:19 DEBUG: Hooks - ***** END of Scenario: Login failed because of wrong username and password *****
+14:21:19 DEBUG: Hooks - ***** START of Scenario: Login failed because of wrong password *****
+14:21:19 INFO : InitDriver - ===============================================================
+14:21:19 INFO : InitDriver - |          Environment : ft
+14:21:19 INFO : InitDriver - |          Browser: firefox
+14:21:19 INFO : InitDriver - |          Browser config file: firefox.properties
+14:21:19 INFO : InitDriver - ===============================================================
+
+14:21:22 DEBUG: Hooks - ***** END of Scenario: Login failed because of wrong password *****
+14:21:22 DEBUG: Hooks - ***** START of Scenario: Login faled because of wrong username *****
+14:21:22 INFO : InitDriver - ===============================================================
+14:21:22 INFO : InitDriver - |          Environment : ft
+14:21:22 INFO : InitDriver - |          Browser: firefox
+14:21:22 INFO : InitDriver - |          Browser config file: firefox.properties
+14:21:22 INFO : InitDriver - ===============================================================
+
+14:21:26 DEBUG: Hooks - ***** END of Scenario: Login faled because of wrong username *****
+14:21:26 DEBUG: Hooks - ***** START of Scenario: Login failed because the user leaves empty username field or Password field *****
+14:21:26 INFO : InitDriver - ===============================================================
+14:21:26 INFO : InitDriver - |          Environment : ft
+14:21:26 INFO : InitDriver - |          Browser: firefox
+14:21:26 INFO : InitDriver - |          Browser config file: firefox.properties
+14:21:26 INFO : InitDriver - ===============================================================
+
+14:21:28 DEBUG: Hooks - ***** END of Scenario: Login failed because the user leaves empty username field or Password field *****
+14:21:28 DEBUG: Hooks - ***** START of Scenario: Login failed because user leaves empty Password field *****
+14:21:28 INFO : InitDriver - ===============================================================
+14:21:28 INFO : InitDriver - |          Environment : ft
+14:21:28 INFO : InitDriver - |          Browser: firefox
+14:21:28 INFO : InitDriver - |          Browser config file: firefox.properties
+14:21:28 INFO : InitDriver - ===============================================================
+
+14:21:30 DEBUG: Hooks - ***** END of Scenario: Login failed because user leaves empty Password field *****
+14:21:30 DEBUG: Hooks - ***** START of Scenario: Scenario: Login failed because user leaves empty username field *****
+14:21:30 INFO : InitDriver - ===============================================================
+14:21:30 INFO : InitDriver - |          Environment : ft
+14:21:30 INFO : InitDriver - |          Browser: firefox
+14:21:30 INFO : InitDriver - |          Browser config file: firefox.properties
+14:21:30 INFO : InitDriver - ===============================================================
+
+14:21:36 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+14:21:36 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+14:21:37 DEBUG: Hooks - ***** END of Scenario: Scenario: Login failed because user leaves empty username field *****
+14:21:37 DEBUG: Hooks - ***** START of Scenario: Members Area *****
+14:21:37 INFO : InitDriver - ===============================================================
+14:21:37 INFO : InitDriver - |          Environment : ft
+14:21:37 INFO : InitDriver - |          Browser: firefox
+14:21:37 INFO : InitDriver - |          Browser config file: firefox.properties
+14:21:37 INFO : InitDriver - ===============================================================
+
+14:21:40 DEBUG: Hooks - ***** END of Scenario: Members Area *****
+14:21:40 DEBUG: Hooks - ***** START of Scenario: Update Profile *****
+14:21:40 INFO : InitDriver - ===============================================================
+14:21:40 INFO : InitDriver - |          Environment : ft
+14:21:40 INFO : InitDriver - |          Browser: firefox
+14:21:40 INFO : InitDriver - |          Browser config file: firefox.properties
+14:21:40 INFO : InitDriver - ===============================================================
+
+14:21:51 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Submit
+14:21:51 DEBUG: Hooks - ***** END of Scenario: Update Profile *****
+14:21:51 DEBUG: Hooks - ***** START of Scenario: Change Password *****
+14:21:51 INFO : InitDriver - ===============================================================
+14:21:51 INFO : InitDriver - |          Environment : ft
+14:21:51 INFO : InitDriver - |          Browser: firefox
+14:21:51 INFO : InitDriver - |          Browser config file: firefox.properties
+14:21:51 INFO : InitDriver - ===============================================================
+
+14:21:58 DEBUG: Hooks - ***** END of Scenario: Change Password *****
+14:21:58 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user leaves empty Old Password *****
+14:21:58 INFO : InitDriver - ===============================================================
+14:21:58 INFO : InitDriver - |          Environment : ft
+14:21:58 INFO : InitDriver - |          Browser: firefox
+14:21:58 INFO : InitDriver - |          Browser config file: firefox.properties
+14:21:58 INFO : InitDriver - ===============================================================
+
+14:22:07 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Password
+14:22:07 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: Password
+14:22:08 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user leaves empty Old Password *****
+14:22:08 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user write wrong  Old Password *****
+14:22:08 INFO : InitDriver - ===============================================================
+14:22:08 INFO : InitDriver - |          Environment : ft
+14:22:08 INFO : InitDriver - |          Browser: firefox
+14:22:08 INFO : InitDriver - |          Browser config file: firefox.properties
+14:22:08 INFO : InitDriver - ===============================================================
+
+14:22:18 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Password
+14:22:18 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: Password
+14:22:18 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user write wrong  Old Password *****
+14:22:18 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user leaves empty New Password field *****
+14:22:18 INFO : InitDriver - ===============================================================
+14:22:18 INFO : InitDriver - |          Environment : ft
+14:22:18 INFO : InitDriver - |          Browser: firefox
+14:22:18 INFO : InitDriver - |          Browser config file: firefox.properties
+14:22:18 INFO : InitDriver - ===============================================================
+
+14:22:24 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user leaves empty New Password field *****
+14:22:24 DEBUG: Hooks - ***** START of Scenario: Change Password failed because the user leaves empty Confirm New Password field *****
+14:22:24 INFO : InitDriver - ===============================================================
+14:22:24 INFO : InitDriver - |          Environment : ft
+14:22:24 INFO : InitDriver - |          Browser: firefox
+14:22:24 INFO : InitDriver - |          Browser config file: firefox.properties
+14:22:24 INFO : InitDriver - ===============================================================
+
+14:22:33 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; Password
+14:22:33 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: Password
+14:22:34 DEBUG: Hooks - ***** END of Scenario: Change Password failed because the user leaves empty Confirm New Password field *****
+14:22:34 DEBUG: Hooks - ***** START of Scenario: User Account History *****
+14:22:34 INFO : InitDriver - ===============================================================
+14:22:34 INFO : InitDriver - |          Environment : ft
+14:22:34 INFO : InitDriver - |          Browser: firefox
+14:22:34 INFO : InitDriver - |          Browser config file: firefox.properties
+14:22:34 INFO : InitDriver - ===============================================================
+
+14:22:38 DEBUG: Hooks - ***** END of Scenario: User Account History *****
+14:22:38 DEBUG: Hooks - ***** START of Scenario: Logout *****
+14:22:38 INFO : InitDriver - ===============================================================
+14:22:38 INFO : InitDriver - |          Environment : ft
+14:22:38 INFO : InitDriver - |          Browser: firefox
+14:22:38 INFO : InitDriver - |          Browser config file: firefox.properties
+14:22:38 INFO : InitDriver - ===============================================================
+
+14:22:42 DEBUG: Hooks - ***** END of Scenario: Logout *****
+14:22:42 DEBUG: Hooks - ***** START of Scenario: Home *****
+14:22:42 INFO : InitDriver - ===============================================================
+14:22:42 INFO : InitDriver - |          Environment : ft
+14:22:42 INFO : InitDriver - |          Browser: firefox
+14:22:42 INFO : InitDriver - |          Browser config file: firefox.properties
+14:22:42 INFO : InitDriver - ===============================================================
+
+14:22:44 DEBUG: Hooks - ***** END of Scenario: Home *****
+14:22:44 DEBUG: Hooks - ***** START of Scenario: About Us *****
+14:22:44 INFO : InitDriver - ===============================================================
+14:22:44 INFO : InitDriver - |          Environment : ft
+14:22:44 INFO : InitDriver - |          Browser: firefox
+14:22:44 INFO : InitDriver - |          Browser config file: firefox.properties
+14:22:44 INFO : InitDriver - ===============================================================
+
+14:22:46 DEBUG: Hooks - ***** END of Scenario: About Us *****
+14:22:46 DEBUG: Hooks - ***** START of Scenario: Healthcare Professionals *****
+14:22:46 INFO : InitDriver - ===============================================================
+14:22:46 INFO : InitDriver - |          Environment : ft
+14:22:46 INFO : InitDriver - |          Browser: firefox
+14:22:46 INFO : InitDriver - |          Browser config file: firefox.properties
+14:22:46 INFO : InitDriver - ===============================================================
+
+14:22:48 DEBUG: Hooks - ***** END of Scenario: Healthcare Professionals *****
+14:22:48 DEBUG: Hooks - ***** START of Scenario: Products/Services *****
+14:22:48 INFO : InitDriver - ===============================================================
+14:22:48 INFO : InitDriver - |          Environment : ft
+14:22:48 INFO : InitDriver - |          Browser: firefox
+14:22:48 INFO : InitDriver - |          Browser config file: firefox.properties
+14:22:48 INFO : InitDriver - ===============================================================
+
+14:22:56 DEBUG: Hooks - ***** END of Scenario: Products/Services *****
+14:22:56 DEBUG: Hooks - ***** START of Scenario: Additional Services *****
+14:22:56 INFO : InitDriver - ===============================================================
+14:22:56 INFO : InitDriver - |          Environment : ft
+14:22:56 INFO : InitDriver - |          Browser: firefox
+14:22:56 INFO : InitDriver - |          Browser config file: firefox.properties
+14:22:56 INFO : InitDriver - ===============================================================
+
+14:23:09 DEBUG: Hooks - ***** END of Scenario: Additional Services *****
+14:23:09 DEBUG: Hooks - ***** START of Scenario: Blog *****
+14:23:09 INFO : InitDriver - ===============================================================
+14:23:09 INFO : InitDriver - |          Environment : ft
+14:23:09 INFO : InitDriver - |          Browser: firefox
+14:23:09 INFO : InitDriver - |          Browser config file: firefox.properties
+14:23:09 INFO : InitDriver - ===============================================================
+
+14:23:12 DEBUG: Hooks - ***** END of Scenario: Blog *****
+14:23:12 DEBUG: Hooks - ***** START of Scenario: Contact Us *****
+14:23:12 INFO : InitDriver - ===============================================================
+14:23:12 INFO : InitDriver - |          Environment : ft
+14:23:12 INFO : InitDriver - |          Browser: firefox
+14:23:12 INFO : InitDriver - |          Browser config file: firefox.properties
+14:23:12 INFO : InitDriver - ===============================================================
+
+14:23:16 DEBUG: Hooks - ***** END of Scenario: Contact Us *****
+14:23:16 DEBUG: Hooks - ***** START of Scenario: Contact Us Information *****
+14:23:16 INFO : InitDriver - ===============================================================
+14:23:16 INFO : InitDriver - |          Environment : ft
+14:23:16 INFO : InitDriver - |          Browser: firefox
+14:23:16 INFO : InitDriver - |          Browser config file: firefox.properties
+14:23:16 INFO : InitDriver - ===============================================================
+
+14:23:31 DEBUG: Hooks - ***** END of Scenario: Contact Us Information *****
+15:56:46 DEBUG: Hooks - ***** START of Scenario: My account login succesful *****
+15:56:46 INFO : InitDriver - ===============================================================
+15:56:46 INFO : InitDriver - |          Environment : ft
+15:56:46 INFO : InitDriver - |          Browser: firefox
+15:56:46 INFO : InitDriver - |          Browser config file: firefox.properties
+15:56:46 INFO : InitDriver - ===============================================================
+
+15:56:56 DEBUG: Hooks - ***** END of Scenario: My account login succesful *****
+16:04:36 DEBUG: Hooks - ***** START of Scenario: If you are not a member *****
+16:04:36 INFO : InitDriver - ===============================================================
+16:04:36 INFO : InitDriver - |          Environment : ft
+16:04:36 INFO : InitDriver - |          Browser: firefox
+16:04:36 INFO : InitDriver - |          Browser config file: firefox.properties
+16:04:36 INFO : InitDriver - ===============================================================
+
+16:04:51 DEBUG: Hooks - ***** END of Scenario: If you are not a member *****
+16:04:51 DEBUG: Hooks - ***** START of Scenario: My account login succesful *****
+16:04:51 INFO : InitDriver - ===============================================================
+16:04:51 INFO : InitDriver - |          Environment : ft
+16:04:51 INFO : InitDriver - |          Browser: firefox
+16:04:51 INFO : InitDriver - |          Browser config file: firefox.properties
+16:04:51 INFO : InitDriver - ===============================================================
+
+16:04:55 DEBUG: Hooks - ***** END of Scenario: My account login succesful *****
+16:04:55 DEBUG: Hooks - ***** START of Scenario: Logout *****
+16:04:55 INFO : InitDriver - ===============================================================
+16:04:55 INFO : InitDriver - |          Environment : ft
+16:04:55 INFO : InitDriver - |          Browser: firefox
+16:04:55 INFO : InitDriver - |          Browser config file: firefox.properties
+16:04:55 INFO : InitDriver - ===============================================================
+
+16:05:02 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+16:05:02 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+16:05:04 DEBUG: Hooks - ***** END of Scenario: Logout *****
+16:05:04 DEBUG: Hooks - ***** START of Scenario: Members Area *****
+16:05:04 INFO : InitDriver - ===============================================================
+16:05:04 INFO : InitDriver - |          Environment : ft
+16:05:04 INFO : InitDriver - |          Browser: firefox
+16:05:04 INFO : InitDriver - |          Browser config file: firefox.properties
+16:05:04 INFO : InitDriver - ===============================================================
+
+16:05:07 DEBUG: Hooks - ***** END of Scenario: Members Area *****
+16:05:07 DEBUG: Hooks - ***** START of Scenario: Change Password *****
+16:05:07 INFO : InitDriver - ===============================================================
+16:05:07 INFO : InitDriver - |          Environment : ft
+16:05:07 INFO : InitDriver - |          Browser: firefox
+16:05:07 INFO : InitDriver - |          Browser config file: firefox.properties
+16:05:07 INFO : InitDriver - ===============================================================
+
+16:05:14 DEBUG: Hooks - ***** END of Scenario: Change Password *****
+16:05:14 DEBUG: Hooks - ***** START of Scenario: User Account History *****
+16:05:14 INFO : InitDriver - ===============================================================
+16:05:14 INFO : InitDriver - |          Environment : ft
+16:05:14 INFO : InitDriver - |          Browser: firefox
+16:05:14 INFO : InitDriver - |          Browser config file: firefox.properties
+16:05:14 INFO : InitDriver - ===============================================================
+
+16:06:17 DEBUG: Hooks - ***** START of Scenario: If you are not a member *****
+16:06:17 INFO : InitDriver - ===============================================================
+16:06:17 INFO : InitDriver - |          Environment : ft
+16:06:17 INFO : InitDriver - |          Browser: firefox
+16:06:17 INFO : InitDriver - |          Browser config file: firefox.properties
+16:06:17 INFO : InitDriver - ===============================================================
+
+16:06:31 DEBUG: Hooks - ***** END of Scenario: If you are not a member *****
+16:06:31 DEBUG: Hooks - ***** START of Scenario: My account login successful *****
+16:06:31 INFO : InitDriver - ===============================================================
+16:06:31 INFO : InitDriver - |          Environment : ft
+16:06:31 INFO : InitDriver - |          Browser: firefox
+16:06:31 INFO : InitDriver - |          Browser config file: firefox.properties
+16:06:31 INFO : InitDriver - ===============================================================
+
+16:06:35 DEBUG: Hooks - ***** END of Scenario: My account login successful *****
+16:06:35 DEBUG: Hooks - ***** START of Scenario: Logout *****
+16:06:35 INFO : InitDriver - ===============================================================
+16:06:35 INFO : InitDriver - |          Environment : ft
+16:06:35 INFO : InitDriver - |          Browser: firefox
+16:06:35 INFO : InitDriver - |          Browser config file: firefox.properties
+16:06:35 INFO : InitDriver - ===============================================================
+
+16:06:42 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; password
+16:06:42 WARN : WebLocatorDriverExecutor - setValue : field is not ready for use: password
+16:06:43 DEBUG: Hooks - ***** END of Scenario: Logout *****
+16:06:43 DEBUG: Hooks - ***** START of Scenario: Members Area *****
+16:06:43 INFO : InitDriver - ===============================================================
+16:06:43 INFO : InitDriver - |          Environment : ft
+16:06:43 INFO : InitDriver - |          Browser: firefox
+16:06:43 INFO : InitDriver - |          Browser config file: firefox.properties
+16:06:43 INFO : InitDriver - ===============================================================
+
+16:06:47 DEBUG: Hooks - ***** END of Scenario: Members Area *****
+16:06:47 DEBUG: Hooks - ***** START of Scenario: Change Password *****
+16:06:47 INFO : InitDriver - ===============================================================
+16:06:47 INFO : InitDriver - |          Environment : ft
+16:06:47 INFO : InitDriver - |          Browser: firefox
+16:06:47 INFO : InitDriver - |          Browser config file: firefox.properties
+16:06:47 INFO : InitDriver - ===============================================================
+
+16:06:54 DEBUG: Hooks - ***** END of Scenario: Change Password *****
+16:06:54 DEBUG: Hooks - ***** START of Scenario: User Account History *****
+16:06:54 INFO : InitDriver - ===============================================================
+16:06:54 INFO : InitDriver - |          Environment : ft
+16:06:54 INFO : InitDriver - |          Browser: firefox
+16:06:54 INFO : InitDriver - |          Browser config file: firefox.properties
+16:06:54 INFO : InitDriver - ===============================================================
+
+16:06:59 DEBUG: Hooks - ***** END of Scenario: User Account History *****
+16:06:59 DEBUG: Hooks - ***** START of Scenario: Home *****
+16:06:59 INFO : InitDriver - ===============================================================
+16:06:59 INFO : InitDriver - |          Environment : ft
+16:06:59 INFO : InitDriver - |          Browser: firefox
+16:06:59 INFO : InitDriver - |          Browser config file: firefox.properties
+16:06:59 INFO : InitDriver - ===============================================================
+
+16:07:01 DEBUG: Hooks - ***** END of Scenario: Home *****
+16:07:01 DEBUG: Hooks - ***** START of Scenario: About Us *****
+16:07:01 INFO : InitDriver - ===============================================================
+16:07:01 INFO : InitDriver - |          Environment : ft
+16:07:01 INFO : InitDriver - |          Browser: firefox
+16:07:01 INFO : InitDriver - |          Browser config file: firefox.properties
+16:07:01 INFO : InitDriver - ===============================================================
+
+16:07:04 DEBUG: Hooks - ***** END of Scenario: About Us *****
+16:07:04 DEBUG: Hooks - ***** START of Scenario: Healthcare Professionals *****
+16:07:04 INFO : InitDriver - ===============================================================
+16:07:04 INFO : InitDriver - |          Environment : ft
+16:07:04 INFO : InitDriver - |          Browser: firefox
+16:07:04 INFO : InitDriver - |          Browser config file: firefox.properties
+16:07:04 INFO : InitDriver - ===============================================================
+
+16:07:06 DEBUG: Hooks - ***** END of Scenario: Healthcare Professionals *****
+16:07:06 DEBUG: Hooks - ***** START of Scenario: Products/Services *****
+16:07:06 INFO : InitDriver - ===============================================================
+16:07:06 INFO : InitDriver - |          Environment : ft
+16:07:06 INFO : InitDriver - |          Browser: firefox
+16:07:06 INFO : InitDriver - |          Browser config file: firefox.properties
+16:07:06 INFO : InitDriver - ===============================================================
+
+16:07:14 DEBUG: Hooks - ***** END of Scenario: Products/Services *****
+16:07:14 DEBUG: Hooks - ***** START of Scenario: Additional Services *****
+16:07:14 INFO : InitDriver - ===============================================================
+16:07:14 INFO : InitDriver - |          Environment : ft
+16:07:14 INFO : InitDriver - |          Browser: firefox
+16:07:14 INFO : InitDriver - |          Browser config file: firefox.properties
+16:07:14 INFO : InitDriver - ===============================================================
+
+16:07:28 DEBUG: Hooks - ***** END of Scenario: Additional Services *****
+16:07:28 DEBUG: Hooks - ***** START of Scenario: Blog *****
+16:07:28 INFO : InitDriver - ===============================================================
+16:07:28 INFO : InitDriver - |          Environment : ft
+16:07:28 INFO : InitDriver - |          Browser: firefox
+16:07:28 INFO : InitDriver - |          Browser config file: firefox.properties
+16:07:28 INFO : InitDriver - ===============================================================
+
+16:07:31 DEBUG: Hooks - ***** END of Scenario: Blog *****
+16:07:31 DEBUG: Hooks - ***** START of Scenario: Contact Us *****
+16:07:31 INFO : InitDriver - ===============================================================
+16:07:31 INFO : InitDriver - |          Environment : ft
+16:07:31 INFO : InitDriver - |          Browser: firefox
+16:07:31 INFO : InitDriver - |          Browser config file: firefox.properties
+16:07:31 INFO : InitDriver - ===============================================================
+
+16:07:35 DEBUG: Hooks - ***** END of Scenario: Contact Us *****
+16:07:35 DEBUG: Hooks - ***** START of Scenario: Contact Us Information *****
+16:07:35 INFO : InitDriver - ===============================================================
+16:07:35 INFO : InitDriver - |          Environment : ft
+16:07:35 INFO : InitDriver - |          Browser: firefox
+16:07:35 INFO : InitDriver - |          Browser config file: firefox.properties
+16:07:35 INFO : InitDriver - ===============================================================
+
+16:07:50 DEBUG: Hooks - ***** END of Scenario: Contact Us Information *****
